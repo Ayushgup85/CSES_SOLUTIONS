@@ -1,5 +1,5 @@
 import java.util.*;
-class upload{
+class increasingArray{
     public static void main(String[] args)
     {
         Scanner sc=new Scanner(System.in);
